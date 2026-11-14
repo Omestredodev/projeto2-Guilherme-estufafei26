@@ -1,0 +1,17 @@
+﻿# Coleção Postman com credenciais locais
+/postman/Projeto 2.postman_collection.json
+
+# Arquivos locais e temporários
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.vscode/
+.env
+.env.*
+!.env.example
+*.bak
+*.log
+__pycache__/
+.vscode/
