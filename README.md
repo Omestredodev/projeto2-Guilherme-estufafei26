@@ -212,12 +212,3 @@ Foram utilizadas ferramentas de IA como apoio ao desenvolvimento e à documenta�
 - Broker MQTT público HiveMQ: https://www.hivemq.com/mqtt/public-mqtt-broker/
 
 ---
-
-### Conferência antes da entrega
-
-- [ ] Substituir nomes/RA dos integrantes e URL do repositório.
-- [ ] Conferir que `firmware/main.py` contém o firmware final testado e salvar `firmware/diagram.json` se disponível.
-- [ ] Conferir que o JSON exportado está nos caminhos indicados e importa corretamente.
-- [ ] Adicionar capturas e exportações de resultados existentes às pastas `evidencias/` e `postman/`.
-- [ ] Remover quaisquer senhas, tokens ou dados pessoais dos arquivos que serão compartilhados.
-- [ ] Conferir variáveis de ambiente e arquivos de inicialização necessários a uma reprodução em outro computador.
